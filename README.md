@@ -1,6 +1,6 @@
 # NCI F99 Application
 
-[![CC BY 4.0][cc-by-shield]][cc-by]
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 My [funded NCI F99 application](https://github.com/j-berg/nci_f99/blob/main/Berg-Jordan_NCI-F99_2019-application_Redacted.pdf) from the 2019 submission cycle.
 
